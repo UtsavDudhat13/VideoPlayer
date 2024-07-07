@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HDVideoPlayer</string>
+
+    <string name="strPermissionDialogTitle">Permission Required!</string>
+    <string name="strPermissionDialogMessage">For Playing Videos, you must allow to access files permissions.\n\nFollow the below steps: \nGo to Settings > Permissions > Storage</string>
+
+</resources>
